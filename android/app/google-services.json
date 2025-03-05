@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "335110719766",
+    "project_id": "todov-3418f",
+    "storage_bucket": "todov-3418f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335110719766:android:8c06cc39881adea3eae837",
+        "android_client_info": {
+          "package_name": "com.example.inst_clone_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNdWVhjSe_lCdiNAmmhJfZw2EcfS5Km6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335110719766:android:5c1d09484bbd6113eae837",
+        "android_client_info": {
+          "package_name": "com.example.oyo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNdWVhjSe_lCdiNAmmhJfZw2EcfS5Km6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
